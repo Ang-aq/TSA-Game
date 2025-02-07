@@ -175,7 +175,6 @@ public class GamePanel extends JPanel implements Runnable {
     }
     @Override
     public void paintComponent(Graphics g) {
-        System.out.println(gameState);
         super.paintComponent(g);
         Graphics2D g2 = (Graphics2D) g;
         ui.drawFadeOverlay(g2);

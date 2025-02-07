@@ -178,7 +178,7 @@ public class KeyHandler implements KeyListener {
         				gp.eHandler.teleport(6,12,23.5,false);
         			}
         			if(code == KeyEvent.VK_7) { // Roof
-        				gp.eHandler.teleport(0,14,14, false);
+        				gp.eHandler.teleport(7,3,3, false);
         			}
         	}
 

@@ -261,7 +261,7 @@ public class AssetSetter {
 		}
 		
 		
-		mapNum = 7;
+		mapNum = 8;
 		i = 0;
 		// add NPCs to map 6 here
 		gp.npc[mapNum][i] = new NPC_Parker(gp);
